@@ -1,5 +1,6 @@
 module.exports = {
   extends: [
+    'semistandard',
     './rules/core.js'
   ],
   env: {

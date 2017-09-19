@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/lennym/eslint-config-lennym#readme",
   "dependencies": {
+    "eslint-config-semistandard": "^11.0.0",
     "eslint-plugin-filenames": "^1.2.0",
     "eslint-plugin-implicit-dependencies": "^1.0.4"
   }
