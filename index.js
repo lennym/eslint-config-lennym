@@ -1,6 +1,6 @@
 module.exports = {
   extends: [
-    './rules/core'
+    './rules/core.js'
   ],
   env: {
     node: true,
