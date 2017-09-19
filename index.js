@@ -1,7 +1,8 @@
 module.exports = {
   extends: [
     'semistandard',
-    './rules/core.js'
+    './rules/core.js',
+    './rules/style.js'
   ],
   env: {
     node: true,
