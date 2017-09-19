@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-lennym",
+  "version": "1.0.0",
+  "description": "My personal eslint preferences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lennym/eslint-config-lennym.git"
+  },
+  "author": "Leonard Martin <hello@lennym.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lennym/eslint-config-lennym/issues"
+  },
+  "homepage": "https://github.com/lennym/eslint-config-lennym#readme",
+  "dependencies": {
+    "eslint-plugin-filenames": "^1.2.0",
+    "eslint-plugin-implicit-dependencies": "^1.0.4"
+  }
+}
