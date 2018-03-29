@@ -11,11 +11,6 @@ module.exports = {
       jsx: true
     }
   },
-  settings: {
-    react: {
-      pragma: 'h'
-    }
-  },
   env: {
     node: true,
     es6: true
