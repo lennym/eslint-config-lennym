@@ -18,6 +18,7 @@ module.exports = {
   plugins: [
     'implicit-dependencies',
     'filenames',
-    'react'
+    'react',
+    'no-only-tests'
   ]
 };
