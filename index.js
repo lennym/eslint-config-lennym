@@ -7,6 +7,7 @@ module.exports = {
     './rules/react.js'
   ],
   parserOptions: {
+    ecmaVersion: 9,
     ecmaFeatures: {
       jsx: true
     }
