@@ -20,7 +20,7 @@
     "eslint-config-semistandard": "^11.0.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-plugin-filenames": "^1.2.0",
-    "eslint-plugin-implicit-dependencies": "^1.0.4",
+    "eslint-plugin-implicit-dependencies": "^1.1.0",
     "eslint-plugin-import": "^2.7.0",
     "eslint-plugin-no-only-tests": "^2.4.0",
     "eslint-plugin-node": "^5.1.1",
